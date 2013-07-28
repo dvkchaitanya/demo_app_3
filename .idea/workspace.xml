@@ -74,7 +74,7 @@
       <file leaf-file-name="micropost.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="38" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06538462">
+            <state line="1" column="36" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06538462">
               <folding />
             </state>
           </provider>
@@ -706,7 +706,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="38" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06538462">
+        <state line="1" column="36" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06538462">
           <folding />
         </state>
       </provider>
